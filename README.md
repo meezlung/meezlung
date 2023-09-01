@@ -1,5 +1,7 @@
 ### Hello World, I am Gabriel Mislang
 
+I am an incoming student in the University of the Philippines, holding a degree in Computer Science.
+
 <!--
 **meezlung/meezlung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
