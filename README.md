@@ -12,15 +12,16 @@
 <a href="https://github.com/meezlung">
   <img align="left" width="400" height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=meezlung&theme=dark" alt="Top Langs" />
 </a>
-<div align=left>
+
+</a>
+<a href="https://github.com/meezlung">
+  <img align="left" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=meezlung&theme=dark&show_icons=true" alt="GitHub Stats" />
+</a>
+
  - Python
  - Arduino IDE
  - C++/C
  - HTML + CSS
-</a>
-<a href="https://github.com/meezlung">
-  <img align="left" width="300" height="200" src="https://github-readme-stats.vercel.app/api?username=meezlung&theme=dark&show_icons=true" alt="GitHub Stats" />
-</a>
 
 
 
