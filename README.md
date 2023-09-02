@@ -13,16 +13,22 @@
   <a href="https://github.com/meezlung">
     <img width="400" height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=meezlung&theme=dark" alt="Top Langs" />
   </a>
-  <div style="display: inline-block; vertical-align: top; margin: 0 20px;">
-    - Python
-    - Arduino IDE
-    - C++/C
-    - HTML + CSS
+  
+  <div style="display: flex; align-items: center;">
+    <ul style="list-style-type: none; padding: 0; margin: 0;">
+      <li>Python</li>
+      <li>Arduino IDE</li>
+      <li>C++/C</li>
+      <li>HTML + CSS</li>
+    </ul>
   </div>
+  
   <a href="https://github.com/meezlung">
     <img width="300" height="200" src="https://github-readme-stats.vercel.app/api?username=meezlung&theme=dark&show_icons=true" alt="GitHub Stats" />
   </a>
 </div>
+
+
 
 
 <!--
