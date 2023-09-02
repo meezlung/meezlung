@@ -1,4 +1,4 @@
-## Hello World, I am Gabriel Mislang ✨
+## Hello World, I am Gabriel ✨
 
 <div id="badges">
   <a href="your-linkedin-URL">
