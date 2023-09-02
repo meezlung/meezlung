@@ -7,7 +7,7 @@ I'm a big **Mr. Robot fan** who's passionate about collecting and **solving Rubi
 In my free time, I'm **always eager to expand my knowledge**. I tend to hyperfocus on topics, often delving deep into **programming** and seeking a comprehensive understanding of various **computer science fields**. This pursuit helps me become a **better programmer**.
 
 ## Proficiency
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=meezlung&theme=tokyonight)](https://github.com/meezlung/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=meezlung&theme=dark)](https://github.com/meezlung/github-readme-stats)
 
 <!--
 **meezlung/meezlung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
