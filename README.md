@@ -25,10 +25,10 @@
  - :electric_plug: Arduino IDE
  - :computer: C++/C
  - :art: HTML + CSS
+ - :muscle: Still working on more
 
 ## Stats
  [![Top Langs](https://github-readme-stats.vercel.app/api?username=meezlung&theme=dark&show_icons=true)](https://github.com/meezlung)
-
 
 
 <!--
