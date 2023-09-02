@@ -10,10 +10,10 @@
 
 ## Languages and Stats
 <a href="https://github.com/meezlung">
-  <img align="left" width="400" height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=meezlung&theme=dark" alt="Top Langs" />
+  <img align="center" width="600" height="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=meezlung&theme=dark" alt="Top Langs" />
 </a>
 <a href="https://github.com/meezlung">
-  <img align="left" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=meezlung&theme=dark&show_icons=true" alt="GitHub Stats" />
+  <img align="center" width="600" height="400" src="https://github-readme-stats.vercel.app/api?username=meezlung&theme=dark&show_icons=true" alt="GitHub Stats" />
 </a>
 
  - Python
