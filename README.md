@@ -2,9 +2,9 @@
 
 I'm an incoming student at the University of the Philippines with a degree in Computer Science. 
 
-I'm a big Mr. Robot fan who's passionate about collecting and solving Rubik's cubes, fiddling with Linux (Kali and Ubuntu), making websites (we used to make calculators and school websites in MakSci), and tackling CTF challenges on picoCTF (you can check out my documentation repository). 
+I'm a big **Mr. Robot fan** who's passionate about collecting and **solving Rubik's cubes**, fiddling with **Linux** (Kali and Ubuntu), making **websites** from scratch (we used to make calculators and school websites in MakSci), and tackling CTF challenges on **picoCTF** (you can check out my documentation repository). 
 
-In my free time, I'm always eager to expand my knowledge. I tend to hyperfocus on topics, often delving deep into programming and seeking a comprehensive understanding of various computer science fields. This pursuit helps me become a better programmer.
+In my free time, I'm **always eager to expand my knowledge**. I tend to hyperfocus on topics, often delving deep into **programming** and seeking a comprehensive understanding of various **computer science fields**. This pursuit helps me become a **better programmer**.
 
 <!--
 **meezlung/meezlung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
