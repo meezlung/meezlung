@@ -9,7 +9,7 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=meezlung&style=flat-square&color=blue" alt=""/>
 
 💬 My name is Gabriel Mislang, or Gab for short.
 
