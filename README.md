@@ -15,7 +15,7 @@
 <div style="display: flex;">
   <img width="400" height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=meezlung&theme=dark" alt="Top Langs" />
 
-  <img src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=meezlung&theme=dark&background=000000)](https://git.io/streak-stats) />
+  <img src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=meezlung&theme=dark)](https://git.io/streak-stats) />
 
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=meezlung&theme=dark&show_icons=true" alt="GitHub Stats" />
 </div>
