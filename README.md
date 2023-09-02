@@ -8,12 +8,19 @@
 
 💡In my free time, I'm **always eager to expand my knowledge**. I tend to hyperfocus on topics, often delving deep into **programming** and seeking a comprehensive understanding of various **computer science fields**. This pursuit helps me become a **better programmer**.
 
-## Languages and Stats
+## 
+
+
+## Stats
 <div style="display: flex;">
   <img width="400" height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=meezlung&theme=dark" alt="Top Langs" />
 
+  <img src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=meezlung&theme=dark&background=000000)](https://git.io/streak-stats) />
+
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=meezlung&theme=dark&show_icons=true" alt="GitHub Stats" />
 </div>
+
+
 <!--
 **meezlung/meezlung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
