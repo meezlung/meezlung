@@ -16,6 +16,10 @@
   <a href="https://github.com/meezlung">
     <img width="400" height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=meezlung&theme=dark" alt="Top Langs" />
   </a>
+
+  <a href="https://git.io/streak-stats">
+    <img width="400" height="200" src="http://github-readme-streak-stats.herokuapp.com?user=meezlung&theme=dark" alt="GitHub Streak" />
+  </a>
   
   <a href="https://github.com/meezlung">
     <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=meezlung&theme=dark&show_icons=true" alt="GitHub Stats" />
