@@ -10,10 +10,10 @@
 
 ## Languages
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=meezlung&theme=dark)](https://github.com/meezlung/github-readme-stats)
- - Python
- - Arduino IDE
- - C++/C
- - HTML + CSS
+ - :snake: Python
+ - :electric_plug: Arduino IDE
+ - :computer: C++/C
+ - :art: HTML + CSS
 
 ## Stats
  [![Top Langs](https://github-readme-stats.vercel.app/api?username=meezlung&theme=dark&show_icons=true)](https://github.com/meezlung)
