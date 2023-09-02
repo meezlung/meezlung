@@ -8,19 +8,15 @@
 
 💡In my free time, I'm **always eager to expand my knowledge**. I tend to hyperfocus on topics, often delving deep into **programming** and seeking a comprehensive understanding of various **computer science fields**. This pursuit helps me become a **better programmer**.
 
-## 
-
+## Languages
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=meezlung&theme=dark)](https://github.com/meezlung/github-readme-stats)
+ - Python
+ - Arduino IDE
+ - C++/C
+ - HTML + CSS
 
 ## Stats
-<div style="display: flex; align-items: left; justify-content: space-between;">
-  <a href="https://github.com/meezlung">
-    <img width="400" height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=meezlung&theme=dark" alt="Top Langs" />
-  </a>
-  
-  <a href="https://github.com/meezlung">
-    <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=meezlung&theme=dark&show_icons=true" alt="GitHub Stats" />
-  </a>
-</div>
+ [![Top Langs](https://github-readme-stats.vercel.app/api?username=meezlung&theme=dark&show_icons=true)](https://github.com/meezlung)
 
 
 
