@@ -12,7 +12,7 @@
 
 
 ## Stats
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; align-items: left; justify-content: space-between;">
   <a href="https://github.com/meezlung">
     <img width="400" height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=meezlung&theme=dark" alt="Top Langs" />
   </a>
