@@ -9,22 +9,20 @@
 💡In my free time, I'm **always eager to expand my knowledge**. I tend to hyperfocus on topics, often delving deep into **programming** and seeking a comprehensive understanding of various **computer science fields**. This pursuit helps me become a **better programmer**.
 
 ## Languages and Stats
-<a href="https://github.com/meezlung">
-  <img align="left" width="400" height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=meezlung&theme=dark" alt="Top Langs" />
-</a>
-
-</a>
-<a href="https://github.com/meezlung">
-  <img align="left" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=meezlung&theme=dark&show_icons=true" alt="GitHub Stats" />
-</a>
-
-\n
-
- - Python
- - Arduino IDE
- - C++/C
- - HTML + CSS
-
+<div align="center">
+  <a href="https://github.com/meezlung">
+    <img width="400" height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=meezlung&theme=dark" alt="Top Langs" />
+  </a>
+  <div style="display: inline-block; vertical-align: top; margin: 0 20px;">
+    - Python
+    - Arduino IDE
+    - C++/C
+    - HTML + CSS
+  </div>
+  <a href="https://github.com/meezlung">
+    <img width="300" height="200" src="https://github-readme-stats.vercel.app/api?username=meezlung&theme=dark&show_icons=true" alt="GitHub Stats" />
+  </a>
+</div>
 
 
 <!--
