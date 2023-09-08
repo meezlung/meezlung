@@ -28,7 +28,7 @@
  - :muscle: Still working on more
 
 ## Stats
- [![Top Langs](https://github-readme-stats.vercel.app/api?username=meezlung&theme=dark&show_icons=true)](https://github.com/meezlung)
+ [![Top Langs](https://github-readme-stats.vercel.app/api?username=meezlung&theme=github_dark&show_icons=true)](https://github.com/meezlung)
 
 
 <!--
