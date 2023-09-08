@@ -20,7 +20,7 @@
 💡In my free time, I'm **always eager to expand my knowledge**. I tend to hyperfocus on topics, often delving deep into **programming** and seeking a comprehensive understanding of various **computer science fields**. This pursuit helps me become a **better programmer**.
 
 ## Languages
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=meezlung&theme=dark)](https://github.com/meezlung/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meezlung&theme=github_dark&layout=compact)
  - :snake: Python
  - :electric_plug: Arduino IDE
  - :computer: C++/C
