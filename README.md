@@ -7,6 +7,9 @@
   <a href="https://www.youtube.com/channel/UCDR58kzE4HdfUdTJy_l7AwQ">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
+  <a href="https://discord.com/users/547341496937086978">
+    <img src="img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white&serverId" alt="Discord Badge"/>
+  </a>
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=meezlung&style=flat-square&color=blue" alt=""/>
