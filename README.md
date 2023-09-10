@@ -2,13 +2,13 @@
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/gabriel-mislang-a48b29188/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCDR58kzE4HdfUdTJy_l7AwQ">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=black" alt="Youtube Badge"/>
   </a>
   <a href="https://discord.com/users/547341496937086978">
-    <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+    <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=black" alt="Discord Badge"/>
   </a>
 </div>
 
