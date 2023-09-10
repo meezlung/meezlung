@@ -1,20 +1,5 @@
 ## Hello World, I am Gabriel ✨
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/gabriel-mislang-a48b29188/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCDR58kzE4HdfUdTJy_l7AwQ">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://discord.com/users/547341496937086978">
-    <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-  </a>
-  <a href="https://www.facebook.com/m1slang/">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-</div>
-
 <img src="https://komarev.com/ghpvc/?username=meezlung&style=flat-square&color=blue" alt=""/>
 
 💬 My name is Gabriel Mislang, or Gab for short.
@@ -36,6 +21,21 @@
 ## Stats
  [![Top Langs](https://github-readme-stats.vercel.app/api?username=meezlung&theme=github_dark&show_icons=true)](https://github.com/meezlung)
 
+## Get in touch
+<div id="badges">
+  <a href="https://www.linkedin.com/in/gabriel-mislang-a48b29188/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCDR58kzE4HdfUdTJy_l7AwQ">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://discord.com/users/547341496937086978">
+    <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
+  <a href="https://www.facebook.com/m1slang/">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+</div>
 
 <!--
 **meezlung/meezlung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
