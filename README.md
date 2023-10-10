@@ -8,7 +8,7 @@
 
 🤖 I'm a big **Mr. Robot fan** who's passionate about tackling CTF challenges on **picoCTF** (you can check out my documentation repository). I also like collecting and **solving Rubik's cubes**, fiddling with **Linux** (Kali and Ubuntu), and making **websites** from scratch (we used to make calculators and school websites in MakSci).
 
-💡In my free time, I'm **always eager to expand my knowledge**. I tend to hyperfocus on topics, often delving deep into **programming** and seeking a comprehensive understanding of various **computer science fields**. This pursuit helps me become a **better programmer**.
+💡In my free time, I'm **always eager to expand my knowledge**. I tend to hyperfocus on topics, often delving deep into **programming** and seeking a comprehensive understanding of various **computer science fields**. This pursuit helps me become a **better programmer**. 
 
 ## Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meezlung&theme=github_dark&layout=compact)
