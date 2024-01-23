@@ -6,7 +6,7 @@
 
 📚 Currently, I'm a Computer Science freshman at the University of the Philippines.
 
-🤖 I'm a big **Mr. Robot fan** who's passionate about tackling CTF challenges on **picoCTF** (you can check out my documentation repository). I also like collecting and **solving Rubik's cubes**, and fiddling with **Linux** (Kali and Ubuntu) because I love solving problems.
+🤖 I'm a big **Mr. Robot fan** who's passionate about tackling CTF challenges on **picoCTF** (you can check out my documentation repository). I also like collecting and **solving Rubik's cubes** and fiddling with **Linux** (Kali and Ubuntu) because I love solving problems. I also like playing bass and guitar as well as with a sprinkle of music theory! :guitar: 
 
 💡In my free time, I'm **always eager to expand my knowledge**. I tend to hyperfocus on topics, often delving deep into **programming** and **mathematics**, and seeking a comprehensive understanding of various **computer science fields**. This pursuit helps me become a **better programmer**. 
 
