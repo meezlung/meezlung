@@ -15,7 +15,7 @@
 </p>
 
 
-<br></br>
+<br />
 
 💬 My name is Gabriel Mislang, or Gab for short.
 
@@ -23,7 +23,7 @@
 
 💡In my free time, I'm **always eager to expand my knowledge**. I tend to hyperfocus on topics, often delving deep into **programming** and **mathematics**, and seeking a comprehensive understanding of various **computer science fields**. This pursuit helps me become a **better programmer**. 
 
-<br></br>
+<br />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
