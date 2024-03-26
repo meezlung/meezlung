@@ -1,6 +1,6 @@
 ## Hello World, I am Gabriel ✨
 
-<img src="https://komarev.com/ghpvc/?username=meezlung&style=flat-square&color=blue" alt=""/> 
+<img src="https://komarev.com/ghpvc/?username=meezlung&style=flat-square&color=blue" alt=""/> [![wakatime](https://wakatime.com/badge/user/018e79a5-0c90-42a1-b6f8-30d95c69040c.svg)](https://wakatime.com/@018e79a5-0c90-42a1-b6f8-30d95c69040c)
 
 💬 My name is Gabriel Mislang, or Gab for short.
 
