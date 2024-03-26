@@ -2,7 +2,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=meezlung&style=flat-square&color=blue" alt="" /> [![wakatime](https://wakatime.com/badge/user/018e79a5-0c90-42a1-b6f8-30d95c69040c.svg)](https://wakatime.com/@018e79a5-0c90-42a1-b6f8-30d95c69040c)
 
-<br />
 
 💬 My name is Gabriel Mislang, or Gab for short.
 
@@ -10,7 +9,6 @@
 
 💡In my free time, I'm **always eager to expand my knowledge**. I tend to hyperfocus on topics, often delving deep into **programming** and **mathematics**, and seeking a comprehensive understanding of various **computer science fields**. This pursuit helps me become a **better programmer**. 
 
-<br />
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
