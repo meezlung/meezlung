@@ -19,7 +19,7 @@
 ## Stats
  [![Top Langs](https://github-readme-stats.vercel.app/api?username=meezlung&theme=github_dark&show_icons=true)](https://github.com/meezlung)
  
- [![meezlung's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=meezlung&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+ [![meezlung's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=meezlung&theme=github_dark&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
