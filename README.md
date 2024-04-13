@@ -25,6 +25,8 @@
  
  [![meezlung's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@meezlung&theme=github_dark&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
+ ![Leetcode Stats](https://leetcard.jacoblin.cool/meezlung)
+
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
