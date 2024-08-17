@@ -5,7 +5,7 @@
 
 💬 My name is Gabriel Mislang, or Gab for short.
 
-📚 Currently, I'm a Computer Science freshman at the University of the Philippines.
+📚 Currently, I'm a Computer Science undergraduate at the University of the Philippines.
 
 💡In my free time, I'm **always eager to expand my knowledge**. I tend to hyperfocus on topics, often delving deep into **programming** and **mathematics**, and seeking a comprehensive understanding of various **computer science fields**. This pursuit helps me become a **better programmer**. 
 
