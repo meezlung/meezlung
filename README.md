@@ -19,11 +19,11 @@
  
 <h2 align="left">Stats:</h2>
 
- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meezlung&theme=github_dark&layout=compact)
+ ![Top Languages](https://github-readme-stats-meezlung.vercel.app/api/top-langs/?username=meezlung&theme=github_dark&layout=compact)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api?username=meezlung&theme=github_dark&show_icons=true)](https://github.com/meezlung)
+ [![Top Langs](https://github-readme-stats-meezlung.vercel.app/api?username=meezlung&theme=github_dark&show_icons=true)](https://github.com/meezlung)
  
- [![meezlung's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@meezlung&theme=github_dark&v=2)](https://github.com/anuraghazra/github-readme-stats)
+ [![meezlung's WakaTime stats](https://github-readme-stats-meezlung.vercel.app/api/wakatime?username=@meezlung&theme=github_dark&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
